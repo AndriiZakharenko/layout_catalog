@@ -28,5 +28,3 @@ Make all the changes smooth on hover (during 300ms):
 ## Demo links
 
 - [DEMO LINK](https://AndriiZakharenko.github.io/layout_catalog/)
-
-❗️ Copy this `Checklist` to the `Pull Request` description after links, and put `- [x]` before each point after you checked it.
