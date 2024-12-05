@@ -1,6 +1,6 @@
 # Frontend practice with catalog page
 
-Create HTML page with catalog. Develop semantic page structure as shown on [the mockup](https://www.figma.com/file/ojkArVazq7vsX0nbpn9CxZ/Moyo-%2F-Catalog-(ENG)?node-id=32249%3A354).
+Created HTML page with catalog. Developed semantic page structure as shown on [the mockup](https://www.figma.com/file/ojkArVazq7vsX0nbpn9CxZ/Moyo-%2F-Catalog-(ENG)?node-id=32249%3A354).
 
 - use `Header`, `Stars` and `Card` blocks from previous tasks but rewrite them using BEM and SCSS
 - remove old `data-qa` attributes
@@ -25,19 +25,8 @@ Make all the changes smooth on hover (during 300ms):
 - change navigation link text color to `#00acdc`
 - change the button background to `#fff` and text color to `#00acdc` on hover
 
-> Here are the [Layout Tasks Instructions](https://mate-academy.github.io/layout_task-guideline)
+## Demo links
 
-## Checklist
-
-❗️ Replace `<your_account>` with your Github username and copy the links to `Pull Request` description:
-- [DEMO LINK](https://<your_account>.github.io/layout_catalog/)
-- [TEST REPORT LINK](https://<your_account>.github.io/layout_catalog/report/html_report/)
+- [DEMO LINK](https://AndriiZakharenko.github.io/layout_catalog/)
 
 ❗️ Copy this `Checklist` to the `Pull Request` description after links, and put `- [x]` before each point after you checked it.
-
-- [ ] All component follow BEM and use SCSS
-- [ ] repaeted sizes and special colors are put to variables
-- [ ] Grid is used for the columns
-- [ ] cards are shown in 1, 2, 3 or 4 columns based on screen resolution
-- [ ] All changes on `:hover` are smooth
-- [ ] Code follows all the [Code Style Rules ❗️](https://mate-academy.github.io/layout_task-guideline/html-css-code-style-rules)
